@@ -1,1 +1,104 @@
 # System-Design
+
+## Things to learn
+
+### Glossary
+
+- [ ] ACID Transactions
+- [ ] ACL
+- [ ] Alerting
+- [ ] Apache kafka
+- [ ] Availability
+- [ ] Availability Zone
+- [ ] Blob storage
+- [ ] Cache
+- [ ] Cache Eviction Policy
+- [ ] Cache Hit
+- [ ] Cache Miss
+- [ ] CAP Theorem
+- [ ] Client
+- [ ] Client-Server model
+- [ ] Cloud Pub/Sub
+- [ ] Configuration
+- [ ] Consensus Algorithm
+- [ ] Consistent Hashing
+- [ ] Content Delivery Network
+- [ ] CRUD Operations
+- [ ] Database Index
+- [ ] Datbase Lock
+- [ ] Databases
+- [ ] DDoS Attack
+- [ ] Disk
+- [ ] Distributed File System
+- [ ] DNS
+- [ ] DoS attack
+- [ ] Etcd
+- [ ] Eventual Consistency
+- [ ] File System
+- [ ] Forward Proxy
+- [ ] Google Cloud Storage
+- [ ] Gossip Protocol
+- [ ] Hadoop
+- [ ] Hashing Function
+- [ ] High Availability
+- [ ] Horizontal Scaling
+- [ ] Hot Spot
+- [ ] HTTP
+- [ ] Idempotent Operation
+- [ ] IP
+- [ ] IP Address
+- [ ] IP Packet
+- [ ] JSON
+- [ ] Key-Value Store
+- [ ] Latency
+- [ ] Leader Election
+- [ ] Load Balancer
+- [ ] Logging
+- [ ] MapReduce
+- [ ] Memory
+- [ ] Microservice Architecture
+- [ ] MongoDB
+- [ ] Monolith Architecture
+- [ ] MySQL
+- [ ] Nginx
+- [ ] Nines
+- [ ] Node/Instance/Host
+- [ ] Non-Relational database
+- [ ] NoSQL database
+- [ ] Pagination
+- [ ] Pazos and Raft
+- [ ] Peer-to-Peer network
+- [ ] Percentiles
+- [ ] Polling
+- [ ] Persistent Storage
+- [ ] Polling
+- [ ] Postgres
+- [ ] Process
+- [ ] Publish/Subscribe Pattern
+- [ ] Rate Limiting
+- [ ] Redis
+- [ ] Redundancy
+- [ ] Relational Databases
+- [ ] Rendezvous Hashing
+- [ ] Replication
+- [ ] Reverse Proxy
+- [ ] S3
+- [ ] Server
+- [ ] Server-Selection Strategy
+- [ ] SHA
+- [ ] Sharding
+- [ ] SLA
+- [ ] SLO
+- [ ] Socket
+- [ ] SQL
+- [ ] Stateful
+- [ ] Stateless
+- [ ] Streaming
+- [ ] Strong Consistency
+- [ ] TCP
+- [ ] Throughput
+- [ ] Vertical Scaling
+- [ ] Virtual Machine
+- [ ] Worker Pool Pattern
+- [ ] YAML
+- [ ] ZooKeeper
