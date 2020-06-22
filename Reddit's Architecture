@@ -3,7 +3,20 @@
      1 million posts per day, 5 million posts per day.
     :r2 is at the core of reddit
         :Monolithic architecture written in python blob
-    :Frontend:
+        :Load Balancers uses HA Proxy
+        :Job Queues are asynchronous. RabbitMQ is implemented
+        :Things
+            :Core data model
+            :Memcache and PostgreSQL
+        :Cassandra
+    :Frontend
         :Node.js is being used to built Frontend web applications
         :They share code between server and clients.
         :They all talk through API gateways provided by r2/API feature
+    :Backend
+        :Thrift for schemas
+    :CDN
+        :Decision block as to which stack to divert the request to.
+    :Listings
+        :
+    
